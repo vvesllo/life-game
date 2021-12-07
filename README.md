@@ -1,1 +1,1 @@
-# life-game
+Life Game On C++
